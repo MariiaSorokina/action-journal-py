@@ -1,6 +1,6 @@
 [2023-06-19 12:30:50] Eve opened the file for viewing.
-[2023-06-20 17:25:55] Bob pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
+[2023-06-20 17:25:55] Bob pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
 [2023-06-03 10:45:22] Eve deleted the folder "Important Documents".
 [2023-06-04 16:20:05] Alice moved the file to the "Archive" folder.
 [2023-06-05 11:10:30] Bob closed the program.
@@ -14,15 +14,15 @@
 [2023-06-13 10:45:22] Eve opened an image editing application.
 [2023-06-14 16:20:05] Bob saved the file in PDF format.
 [2023-06-15 11:10:30] Alice viewed the task list.
-[2023-06-20 17:25:55] Misha pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
+[2023-06-20 17:25:55] Misha pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
 [2023-06-16 15:05:18] Eve added a new page to the presentation.
 [2023-06-17 13:55:40] Bob changed the login password for the system.
 [2023-06-18 08:45:15] Alice sent a print request for the documents.
 [2023-06-19 12:30:50] Eve opened the file for viewing.
-[2023-06-20 17:25:55] Bob pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
+[2023-06-20 17:25:55] Bob pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
 [2023-06-03 10:45:22] Eve deleted the folder "Important Documents".
 [2023-06-04 16:20:05] Alice moved the file to the "Archive" folder.
 [2023-06-05 11:10:30] Bob closed the program.
@@ -37,12 +37,12 @@
 [2023-06-14 16:20:05] Bob saved the file in PDF format.
 [2023-06-14 16:20:05] Bob saved the file in PDF format.
 [2023-06-15 11:10:30] Alice viewed the task list.
-[2023-06-20 17:25:55] Misha pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
+[2023-06-20 17:25:55] Misha pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
 [2023-06-16 15:05:18] Eve added a new page to the presentation.
 [2023-06-17 13:55:40] Bob changed the login password for the system.
 [2023-06-18 08:45:15] Alice sent a print request for the documents.
 [2023-06-19 12:30:50] Eve opened the file for viewing.
-[2023-06-20 17:25:55] Bob pinned an important document..
-[2023-06-20 17:25:55] Misha pinned an important document..
+[2023-06-20 17:25:55] Bob pinned an important document.
+[2023-06-20 17:25:55] Misha pinned an important document.
